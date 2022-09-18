@@ -19,3 +19,6 @@ ubuntu/zfs-mount-container-start.patch
 ubuntu/4510-silently-ignore-modprobe-failure.patch
 ubuntu/4751-suppress-types.patch
 skip-on-PREEMPT_RT.patch
+longsleep/1000-backport-58571ba447ecc1f08a6807c8380f916fdb5a9958.patch
+longsleep/1001-backport-4063d7b6b4b387e9b21f1f066e153b50ae2cd819.patch
+longsleep/1002-backport-e0dbab1a141cdd1b118fad7c932099a2053fa4d8.patch
