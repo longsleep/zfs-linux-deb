@@ -1,3 +1,9 @@
+zfs-linux (2.1.5-2longsleep+pop0~1655993042~22.04~295632d) jammy; urgency=medium
+
+  * Add Kernel 6.0 compatibility patches
+
+ -- Simon Eisenmann <simon@longsleep.org>  Sun, 18 Sep 2022 15:56:16 +0200
+
 zfs-linux (2.1.5-1pop0~1655993042~22.04~295632d) jammy; urgency=medium
 
   * Auto Build
