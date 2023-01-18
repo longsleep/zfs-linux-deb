@@ -1,3 +1,14 @@
+zfs-linux (2.1.7-1longsleep0) unstable; urgency=medium
+
+  [ Mo Zhou ]
+  * Add script for testing bullseye->bookworm upgrade. (irrelevant to packaging) (See: #1024326)
+
+  [ Simon Eisenmann ]
+  * Enable Ubuntu patches
+  * Add Kernel 6.2 compatibility patches
+
+ -- Simon Eisenmann <simon@longsleep.org>  Wed, 18 Jan 2023 13:53:42 +0100
+
 zfs-linux (2.1.7-1) unstable; urgency=medium
 
   * New upstream version 2.1.7
