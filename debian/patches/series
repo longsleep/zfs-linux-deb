@@ -23,3 +23,6 @@ ubuntu/4100-disable-bpool-upgrade.patch
 ubuntu/zfs-mount-container-start.patch
 ubuntu/4510-silently-ignore-modprobe-failure.patch
 ubuntu/4751-suppress-types.patch
+longsleep/3c0b8c874bff37e7ba10c07efb115852346d1fc0.patch
+longsleep/b586ea5d937be36eb23df4277275927ce7c2be7c.patch
+longsleep/138d2b29dd01e9eb9ddc70b0ee5a7f3645830219.patch
